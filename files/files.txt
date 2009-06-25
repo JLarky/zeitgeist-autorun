@@ -1,0 +1,18 @@
+== UTF-8 ==
+С„РёР»СЊРј "Р”СѓС… РІСЂРµРјРµРЅРё" - Zeitgeist_The_Movie.avi
+С„РёР»СЊРј "Р”СѓС… РІСЂРµРјРµРЅРё: РґРѕРїРѕР»РЅРµРЅРёРµ" - Zeitgeist_Addendum_Final.avi
+РІРёРґРµРѕ "РњРѕСЂСЃРєРёРµ РіРѕСЂРѕРґР°" - Cities_In_The_Sea.avi
+РІРёРґРµРѕ "РёРЅС‚РµСЂРІСЊСЋ СЃ Р–Р°РєРѕРј Р¤СЂРµСЃРєРѕ" - Video_Fresco_Interview.avi
+PDF-РґРѕРєСѓРјРµРЅС‚ "РџСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёРµ Р±СѓРґСѓС‰РµРіРѕ" - Designing_the_Future.pdf
+===========
+
+
+== windows ==
+фильм "Дух времени" - Zeitgeist_The_Movie.avi
+фильм "Дух времени: дополнение" - Zeitgeist_Addendum_Final.avi
+видео "Морские города" - Cities_In_The_Sea.avi
+видео "интервью с Жаком Фреско" - Video_Fresco_Interview.avi
+PDF-документ "Проектирование будущего" - Designing_the_Future.pdf
+===========
+
+
