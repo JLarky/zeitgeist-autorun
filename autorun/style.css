@@ -1,0 +1,105 @@
+body {
+color: #ADADAD;
+font-family:tahoma;
+font-size:11pt;
+}
+
+#wrap {
+  width: 550px ;
+  margin-top: 10px;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+#header {
+  background: black url(logo.jpg) no-repeat scroll 50% 0px;
+  height:70px;
+}
+#header h1 {
+  visibility: hidden;
+  margin: 0px;
+}
+
+#content {
+  color: white;
+  background:black url(fon.jpg) no-repeat scroll 50% -72px;
+  height:550px;
+  font-family:arial;
+}
+#films {
+  margin-left: auto ;
+  margin-right: auto ;
+  padding-left:10px;
+  padding-right:10px
+}
+#films tr.big {
+  font-size: 15pt;
+  color: #DDDDDD;
+}
+
+#films tr.big a {
+ font-size:15pt;
+ color: #00A8F0;
+}
+#films tr a {
+ font-size:13pt;
+ color: #00709F;
+ font-family:tahoma;
+ text-decoration:underline;
+}
+#films tr td.num {
+ color: #B6B6B6;
+ font-size:16pt;
+}
+
+#films tr.big td.num {
+ color: #DDDDDD;
+ font-size:17pt;
+}
+
+#films tr.long {
+ vertical-align: top;
+ height: 30px;
+ font-size:10pt;
+ color: #A4A4A4;
+}
+
+#films tr.big.long {
+  color: #C0C0C0;
+}
+
+#other {
+ position:relative;
+ top:300px;
+ margin-left: auto;
+ margin-right: auto;
+}
+#venus {
+ height: 50px;
+ line-height:16pt;
+}
+#venus div.shift {
+ margin-left:55px;
+}
+#venus img {
+ border:none;
+}
+#venus a {
+ color: #9F9F9F;
+ font-weight:bold;
+}
+#site a {
+ color: #33607D;
+}
+
+#copyright {
+ position: relative;
+ bottom: 0px;
+ color: white;
+ background:black;
+ padding: 10px;
+ text-align:right;
+}
+
+#copyright a {
+ color: #33607D;
+}
